@@ -3,6 +3,12 @@
 ![Banner](./Banner.png)
 This repository contains course materials for the "Introduction to DevOps" course, designed to provide a comprehensive understanding of DevOps principles, practices, and tools. The content is structured to guide beginners through the core concepts of DevOps, including its cultural, technical, and strategic aspects.
 
+## Course Videos
+
+You can access the course videos on Google Drive by clicking the link below:
+
+[DevOps Course Videos](https://drive.google.com/drive/folders/1gVPQ0nVTgeUcIUTi32WLXCrxtU6c-vI0?usp=sharing)
+
 ## Course Overview
 
 DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) to shorten the system development life cycle and deliver high-quality software continuously. This course introduces the key principles, cultural shifts, core practices, and tools involved in DevOps. It also explores how DevOps aligns with project management methodologies to enhance software development and deployment.
