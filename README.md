@@ -45,21 +45,9 @@ DevOps is a set of practices that combines software development (Dev) and IT ope
 - **Slides:** A comprehensive set of slides that provide an overview of each topic covered in the course.
 - **Documentation:** Detailed documentation covering all the topics, including definitions, principles, best practices, case studies, and FAQs.
 
-## Getting Started
-
-To get started with this course, you can download the materials from this repository. The slides provide a visual guide, while the documentation offers a more in-depth exploration of each topic.
-
-### Prerequisites
-
-No prior experience with DevOps is required. This course is designed for beginners and provides a foundational understanding of DevOps concepts. Basic knowledge of software development and IT operations will be beneficial.
-
 ## Additional Resources
 
 - **Books:** 
   - *The Phoenix Project* by Gene Kim, Kevin Behr, and George Spafford
   - *The DevOps Handbook* by Gene Kim, Patrick Debois, John Willis, and Jez Humble
   - *Accelerate* by Nicole Forsgren, Jez Humble, and Gene Kim
-
-- **Online Courses:** Platforms like Coursera, Udemy, and Pluralsight offer comprehensive courses on DevOps.
-
-- **Conferences and Communities:** Engage with the DevOps community through events like DevOpsDays and online forums such as DevOps.com and Reddit's r/devops.
