@@ -1,5 +1,6 @@
 # Introduction to DevOps
-![alt text](https://github.com/mamishere/Introfuction-to-DevOps/Banner.png?raw=true)
+
+![Banner](./Banner.png)
 This repository contains course materials for the "Introduction to DevOps" course, designed to provide a comprehensive understanding of DevOps principles, practices, and tools. The content is structured to guide beginners through the core concepts of DevOps, including its cultural, technical, and strategic aspects.
 
 ## Course Overview
